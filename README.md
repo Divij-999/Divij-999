@@ -1,90 +1,195 @@
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
-
-###
-
-<div align="center">
-  <a href="https://linkedin.com/in/divij-modi" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://divij-999.github.io/portfolio/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=About.me&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="portfolio logo"  />
-  </a>
-  <a href="mailto:dmodi2806@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="email logo"  />
-  </a>
-</div>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=divij-999.divij-999&"  />
-</div>
-
-###
-
-<h1 align="center">hey there 👋 I'm Divij Modi</h1>
-
-###
-
-<h3 align="left">👩‍💻 About Me</h3>
-
-###
-
-<p align="left">
-I am a <b>Full-Stack Developer</b> and tech enthusiast passionate about building scalable, user-focused solutions and exploring the frontier of AI.<br><br>
-- 🔭 I’m currently working on <b>Modern Web Apps & Salesforce Enterprise Solutions</b>.<br>
-- 📚 I'm deepening my expertise in <b>LLMs, NLP, and AI integrations</b> to automate complex workflows.<br>
-- ⚡ In my free time, I focus on <b>Clean UI/UX Design</b> and architecting scalable APIs.<br>
-- 🚀 Check out my work: <a href="https://divij-999.github.io/portfolio/">divij-999.github.io/portfolio</a>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000428,100:004e92&height=200&section=header&text=Divij%20Modi&fontSize=60&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
-###
-
-<h3 align="left">🛠 Languages and Tools</h3>
-
-###
-
-<div align="left">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="python" />
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="js" />
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="java" />
-  <br>
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="react" />
-  <img src="https://img.shields.io/badge/django-%23092e20.svg?style=for-the-badge&logo=django&logoColor=white" alt="django" />
-  <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="salesforce" />
-  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwind" />
-  <br>
-  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="tensorflow" />
-  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="sklearn" />
-  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" />
-  <br>
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="nodejs" />
-  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgres" />
-  <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" alt="firebase" />
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="git" />
-</div>
-
-###
-
-<h3 align="left">🔥 My Stats</h3>
-
-###
-
+<br/>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=divij-999&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="180" alt="streak graph"  />
+  <h1>👋 Hi, I'm Divij Modi</h1>
+  <p><strong>💻 AI Engineer | Full Stack Developer | Salesforce Developer</strong></p>
+
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=24&pause=1000&color=00E5FF&center=true&vCenter=true&width=850&lines=BE+Artificial+Intelligence+%26+Machine+Learning;Full+Stack+Developer;Flutter+Developer;Salesforce+Developer;Always+Learning+New+Technologies"/>
+  
+  <br/><br/>
+  
+  <img src="https://komarev.com/ghpvc/?username=divijmodi&color=00e5ff&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
 </div>
 
-###
+<br/>
 
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
-</div>
+---
 
-<br />
+## 💫 About Me
 
-<div align="center">
-  <p><i>"The best way to predict the future is to invent it."</i></p>
-</div>
+<table border="0" width="100%">
+  <tr>
+    <td width="55%" valign="top">
+      <p>
+        I'm an <strong>Artificial Intelligence & Machine Learning</strong> student and <strong>Full-Stack Developer</strong>. I specialize in building responsive web applications, mobile apps with Flutter, and integrated cloud solutions using Salesforce (LWC/Apex). I'm constantly learning new technologies and exploring the potential of Generative AI.
+      </p>
+      <pre><code>$ whoami
+
+👨 Name      : Divij Modi
+🎓 Degree    : BE Artificial Intelligence & Machine Learning
+💻 Focus     : Full Stack • Salesforce • Flutter • AI
+🌱 Learning  : GenAI, LWC, React, Node.js
+⚡ Motto     : Build • Learn • Repeat</code></pre>
+    </td>
+    <td width="45%" align="center" valign="middle">
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" style="border-radius: 8px;"/>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🛠 Tech Stack
+
+<table border="0" align="center" width="100%">
+  <tr>
+    <td width="30%" align="left"><strong>💻 Languages</strong></td>
+    <td width="70%" align="left">
+      <img src="https://skillicons.dev/icons?i=java,python,js,ts,dart&theme=dark" alt="Languages"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="30%" align="left"><strong>🚀 Frameworks</strong></td>
+    <td width="70%" align="left">
+      <img src="https://skillicons.dev/icons?i=react,nodejs,flutter&theme=dark" alt="Frameworks"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="30%" align="left"><strong>🗄️ Databases & Cloud</strong></td>
+    <td width="70%" align="left">
+      <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase&theme=dark" alt="Databases"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="30%" align="left"><strong>🛠️ Developer Tools</strong></td>
+    <td width="70%" align="left">
+      <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman&theme=dark" alt="Tools"/>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Stack / Technologies |
+|:---|:---|:---|
+| 🤖 **Disease Diagnosis** | AI-powered diagnosis assistant using Machine Learning models | `Python` `TensorFlow` `Streamlit` |
+| 📷 **Oreo Book** | Flutter application integrated with Google Drive API for asset management | `Flutter` `Dart` `Google Drive API` |
+| ☁️ **Salesforce WhatsApp** | Meta API integration with Apex controllers and Lightning Web Components | `Salesforce` `Apex` `LWC` `Meta API` |
+| 💬 **Dialogflow Chatbot** | Intelligent conversation bot integrated directly with Salesforce | `Dialogflow` `Node.js` `Salesforce` |
+| ♟ **React Chess** | A fully playable modern chess game with intuitive UI and logic | `React` `JavaScript` `CSS` |
+| ✅ **Todo App** | Cross-platform task manager built with React Native and Expo | `React Native` `Expo` `JavaScript` |
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <table border="0" align="center">
+    <tr>
+      <td align="center" valign="top">
+        <img height="180" src="https://github-stats-extended.vercel.app/api?username=divijmodi&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
+      </td>
+      <td align="center" valign="top">
+        <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs?username=divijmodi&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+      </td>
+    </tr>
+  </table>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=divijmodi&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=divijmodi&theme=tokyo-night" width="100%" alt="Activity Graph"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://trophy.ryglcloud.net/?username=divijmodi&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="./github_user_contribution.svg" alt="Contribution Snake" />
+</p>
+
+<details>
+  <summary>🛠️ <b>How to set up the Contribution Snake Action</b></summary>
+  <p>To automatically update your contribution snake grid, create a workflow file at <code>.github/workflows/snake.yml</code> with the following content:</p>
+
+```yaml
+name: Generate Snake
+
+on:
+  schedule:
+    # Run once a day
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+    - main
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Generate github-contribution-grid-snake.svg
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github_user_contribution.svg
+            dist/github_user_contribution-dark.svg?palette=github-dark
+
+      - name: Push github-contribution-grid-snake.svg to the repository
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: main
+          build_dir: dist
+          keep_files: true
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+</details>
+
+---
+
+## 🌐 Connect
+
+<p align="center">
+  <a href="https://github.com/divijmodi" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/divij-modi-2436811a2" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://divijmodi.tech" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-00E5FF?style=for-the-badge&logo=google-chrome&logoColor=black" alt="Portfolio"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <em>"First solve the problem. Then write the code."</em> — <strong>John Johnson</strong>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000428,100:004e92&height=120&section=footer"/>
+</p>
