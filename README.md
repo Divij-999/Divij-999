@@ -120,56 +120,6 @@
 
 ---
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="./github_user_contribution.svg" alt="Contribution Snake" />
-</p>
-
-<details>
-  <summary>🛠️ <b>How to set up the Contribution Snake Action</b></summary>
-  <p>To automatically update your contribution snake grid, create a workflow file at <code>.github/workflows/snake.yml</code> with the following content:</p>
-
-```yaml
-name: Generate Snake
-
-on:
-  schedule:
-    # Run once a day
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-  push:
-    branches:
-    - main
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    timeout-minutes: 10
-
-    steps:
-      - name: Generate github-contribution-grid-snake.svg
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github_user_contribution.svg
-            dist/github_user_contribution-dark.svg?palette=github-dark
-
-      - name: Push github-contribution-grid-snake.svg to the repository
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: main
-          build_dir: dist
-          keep_files: true
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-</details>
-
----
-
 ## 🌐 Connect
 
 <p align="center">
